@@ -1,0 +1,11 @@
+{
+  "servers": {
+    "MyCalendarMCP": {
+      "type": "stdio",
+      "command": "npm",
+      "args": ["start"],
+      "cwd": "${workspaceFolder}"
+    }
+  },
+  "inputs": []
+}
